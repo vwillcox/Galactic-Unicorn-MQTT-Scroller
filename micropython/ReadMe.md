@@ -2,6 +2,7 @@
 MQTT Scroller for the Pimoroni Galactic Unicon with Pi Pico W
 
 An edited version of the Pimoroni Text Scroll to connect to Wifi and subscribe to an MQTT feed. This enables messages to be scrolled via any MQTT broker. 
+With the ability to play 8-bit music with the message and to change the colour of the backround with the message received.
 
 ![Screen](https://cdn.shopify.com/s/files/1/0174/1800/products/galactic-unicorn-1_768x768.jpg?v=1666945186)
 
@@ -11,4 +12,6 @@ Copy all the files to your Galactic Unicon using Thonny - edit config.py to add 
 
 Edit the unicornmqttscroller.py file for your own MQTTT to subscribe, background colour, scroll speed etc.
 
-Created as part of work at the Connected Environments Group at the Centre for Advanced Spatial Analysis, University College London.
+Original work Created as part of work at the Connected Environments Group at the Centre for Advanced Spatial Analysis, University College London.
+
+Edited by Vincent Willcox (AKA TalkTech) to fit my needs.
